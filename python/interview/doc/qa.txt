@@ -28,8 +28,19 @@
   xrange返回一个xrange对象,一个数据的生成器;因此在数据量较大的情况下,会比range的性能要好，不需要开辟一个完全的空间，而且会比range更快
   http://stackoverflow.com/questions/94935/what-is-the-difference-between-range-and-xrange
   
+5.PEP 8
 
+6.differences between Python2.x and Python3.x
+  http://www.cnblogs.com/codingmylife/archive/2010/06/06/1752807.html
+
+7.What are decorators and what is their usage?
   
+  
+8.The with statement and its usage.
+
+
+	 
+	 
   
 
 
