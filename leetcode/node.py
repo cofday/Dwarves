@@ -9,6 +9,7 @@ class ListNode :
         p = self.next
         while p != None:
             istr = "%s %d" %(istr,p.val)
+            p = p.next
         print(istr)
 
 

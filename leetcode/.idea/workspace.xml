@@ -26,11 +26,21 @@
       <file leaf-file-name="testRun.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testRun.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="71" max-vertical-offset="1155">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
-                <element signature="e#208#240#0" expanded="true" />
+                <element signature="e#307#329#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="evalRPN.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/evalRPN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.89260143" vertical-offset="316" max-vertical-offset="840">
+              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="28" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -38,18 +48,8 @@
       <file leaf-file-name="node.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="690">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="removeDuplicates.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/removeDuplicates.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14319809" vertical-offset="0" max-vertical-offset="585">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="29" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -81,10 +81,13 @@
         <option value="$PROJECT_DIR$/sortedListToBST.py" />
         <option value="$PROJECT_DIR$/maxPoints.py" />
         <option value="$PROJECT_DIR$/copyRandomList.py" />
-        <option value="$PROJECT_DIR$/node.py" />
         <option value="$PROJECT_DIR$/buildTreefromInorderPostorderTraversal.py" />
-        <option value="$PROJECT_DIR$/testRun.py" />
         <option value="$PROJECT_DIR$/removeDuplicates.py" />
+        <option value="$PROJECT_DIR$/mergeTwoLists.py" />
+        <option value="$PROJECT_DIR$/node.py" />
+        <option value="$PROJECT_DIR$/insertionSortList.py" />
+        <option value="$PROJECT_DIR$/testRun.py" />
+        <option value="$PROJECT_DIR$/evalRPN.py" />
       </list>
     </option>
   </component>
@@ -381,7 +384,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <element signature="e#208#240#0" expanded="true" />
+            <element signature="e#307#329#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -413,7 +416,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <element signature="e#208#240#0" expanded="true" />
+            <element signature="e#307#329#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -610,28 +613,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/removeDuplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15789473" vertical-offset="0" max-vertical-offset="585">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="29" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/node.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="690">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mergeTwoLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1097852" vertical-offset="0" max-vertical-offset="555">
+          <caret line="31" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insertionSortList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39379475" vertical-offset="0" max-vertical-offset="480">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testRun.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="71" max-vertical-offset="1155">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
-            <element signature="e#208#240#0" expanded="true" />
+            <element signature="e#307#329#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/removeDuplicates.py">
+    <entry file="file://$PROJECT_DIR$/evalRPN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14319809" vertical-offset="0" max-vertical-offset="585">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="29" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.89260143" vertical-offset="316" max-vertical-offset="840">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="28" />
           <folding />
         </state>
       </provider>
