@@ -18,6 +18,7 @@ class TreeNode :
         self.val = x
         self.left = None
         self.right = None
+        self.next = None
 
     def printTree(self):
         print self.val
