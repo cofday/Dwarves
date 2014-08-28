@@ -9,19 +9,13 @@
 #from  insertionSortList import  *
 #from  evalRPN import *
 #from  PascalTriangleII import *
-from detectCycle import  *
-
-
-
 from node import  *
+from   reverse import *
+#from detectCycle import  *
+
+
+
+
 
 s = Solution()
-head = ListNode(-1)
-n1 = ListNode(1)
-n2 = ListNode(2)
-head.next = n1
-n1.next = n2
-n2.next = n1
-s.detectCycle(head)
-print "*****"
-
+print s.reverse(+2345678919223372036854775809)
