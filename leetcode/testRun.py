@@ -18,12 +18,15 @@ from node import  *
 #from combine import  *
 #from  maxDepth import  *
 #from  isBalanced import  *
-from  reverseBetween import  *
+#from  reverseBetween import  *
+from isValidParentheses import  *
 
 
 
-
-
+s = Solution()
+t = s.isValid("[[")
+print  t
+"""
 s = Solution()
 n1 = ListNode(1)
 n2 = ListNode(2)
@@ -36,6 +39,6 @@ n2.next = n3
 #n3.next = n4
 n4.next  = n5
 n1.printList()
-t = s.reverseBetween(n1,1,3)
-t.printList()
+"""
+
 

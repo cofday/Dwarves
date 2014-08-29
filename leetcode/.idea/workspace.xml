@@ -26,18 +26,18 @@
       <file leaf-file-name="testRun.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testRun.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="291" max-vertical-offset="705">
-              <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="750">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reverseBetween.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/reverseBetween.py">
+      <file leaf-file-name="isValidParentheses.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/isValidParentheses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6376812" vertical-offset="576" max-vertical-offset="1050">
-              <caret line="56" column="22" selection-start-line="11" selection-start-column="0" selection-end-line="56" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.072463766" vertical-offset="0" max-vertical-offset="585">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -94,8 +94,9 @@
         <option value="$PROJECT_DIR$/combine.py" />
         <option value="$PROJECT_DIR$/maxDepth.py" />
         <option value="$PROJECT_DIR$/isBalanced.py" />
-        <option value="$PROJECT_DIR$/testRun.py" />
         <option value="$PROJECT_DIR$/reverseBetween.py" />
+        <option value="$PROJECT_DIR$/testRun.py" />
+        <option value="$PROJECT_DIR$/isValidParentheses.py" />
       </list>
     </option>
   </component>
@@ -388,14 +389,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/detectCycle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="555">
-          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="705">
@@ -749,18 +742,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testRun.py">
+    <entry file="file://$PROJECT_DIR$/reverseBetween.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="291" max-vertical-offset="705">
-          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.07874016" vertical-offset="0" max-vertical-offset="1050">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reverseBetween.py">
+    <entry file="file://$PROJECT_DIR$/testRun.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6376812" vertical-offset="576" max-vertical-offset="1050">
-          <caret line="56" column="22" selection-start-line="11" selection-start-column="0" selection-end-line="56" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="750">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isValidParentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.072463766" vertical-offset="0" max-vertical-offset="585">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
