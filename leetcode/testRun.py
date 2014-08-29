@@ -17,18 +17,25 @@ from node import  *
 #from  generatePascalTriangle import  *
 #from combine import  *
 #from  maxDepth import  *
-from  isBalanced import  *
+#from  isBalanced import  *
+from  reverseBetween import  *
+
 
 
 
 
 s = Solution()
-root = TreeNode(1)
-n1 = TreeNode(2)
-n2 = TreeNode(3)
-n3 = TreeNode(4)
-root.left = n2
-root.right = n3
-n2.left = n3
+n1 = ListNode(1)
+n2 = ListNode(2)
+n3 = ListNode(3)
+n4 = ListNode(4)
+n5 = ListNode(5)
+n6 = ListNode(6)
+n1.next = n2
+n2.next = n3
+#n3.next = n4
+n4.next  = n5
+n1.printList()
+t = s.reverseBetween(n1,1,3)
+t.printList()
 
-print s.isBalanced(root)
