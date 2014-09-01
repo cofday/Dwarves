@@ -11,6 +11,17 @@ class ListNode :
             istr = "%s %d" %(istr,p.val)
             p = p.next
         print(istr)
+class Link :
+    def __init__(self,list):
+        self.head  = ListNode(list[0])
+        p = self.head
+        for v in list[1:] :
+            n = ListNode(v)
+            p.next = n
+            p = n
+    def printLink(self):
+        self.head.printList()
+
 
 
 class TreeNode :

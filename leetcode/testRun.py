@@ -20,13 +20,18 @@ from node import  *
 #from  isBalanced import  *
 #from  reverseBetween import  *
 #from isValidParentheses import  *
-from isPalindrome import  *
+#from isPalindrome import  *
+#from  isPalindromeNumber  import  *
+from  reorderList import *
 
 
 
 
 s = Solution()
-print s.isPalindrome("Bab")
+l = Link([1,2,3,4])
+l.printLink()
+s.reorderList(l.head)
+l.printLink()
 """
 s = Solution()
 n1 = ListNode(1)
