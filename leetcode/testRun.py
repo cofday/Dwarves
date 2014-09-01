@@ -19,13 +19,14 @@ from node import  *
 #from  maxDepth import  *
 #from  isBalanced import  *
 #from  reverseBetween import  *
-from isValidParentheses import  *
+#from isValidParentheses import  *
+from isPalindrome import  *
+
 
 
 
 s = Solution()
-t = s.isValid("[[")
-print  t
+print s.isPalindrome("Bab")
 """
 s = Solution()
 n1 = ListNode(1)
