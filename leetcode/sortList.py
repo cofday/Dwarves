@@ -5,7 +5,6 @@ Sort a linked list in O(n log n) time using constant space complexity.
 """
 from  node import  *
 class Solution:
-
     def findMidNode(self,head):
         if (not head) or (not head.next ) : return  head
         fast = head
