@@ -1,17 +1,10 @@
 #__author__ = 'linweizhong'
 from node import  *
-from postorderTraversal import  *
-
-
+#from  wordBreakII import  *
+from  singleNumberII import  *
 s = Solution()
-root = TreeNode(1)
-n1 = TreeNode(2)
-n2 = TreeNode(3)
-root.right = n1
-n1.left = n2
-
-print s.postorderTraversal(root)
-
+A = [2,3,4,2,3,4,2,3,4 ,7]
+print s.singleNumber(A)
 
 
 
