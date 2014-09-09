@@ -35,8 +35,12 @@ class TreeNode :
         print self.val
         if self.left != None :
             self.left.printTree()
+        #else:
+        #    print "#"
         if self.right != None :
             self.right.printTree()
+        #else:
+        #   print("#")
 """
 class binaryTree :
     def __init__(self):
