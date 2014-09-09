@@ -37,6 +37,15 @@ class TreeNode :
             self.left.printTree()
         if self.right != None :
             self.right.printTree()
+"""
+class binaryTree :
+    def __init__(self):
+        self.root = None
+
+    def build(self,data):
+
+        for item in data :
+"""
 
 class Point :
     def __init__(self,a=0,b=0):
