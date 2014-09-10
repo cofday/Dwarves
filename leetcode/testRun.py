@@ -2,10 +2,10 @@
 from node import  *
 #from  wordBreakII import  *
 #from  SingleNumber import  *
-from restoreIpAddresses import  *
-
+from hasPathSum import  *
 s = Solution()
-print s.restoreIpAddresses("010010")
+n1 = TreeNode(1)
+print s.hasPathSum(n1,1)
 
 
 
