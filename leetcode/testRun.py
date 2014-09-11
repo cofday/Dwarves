@@ -1,24 +1,20 @@
 #__author__ = 'linweizhong'
 from node import  *
-#from  wordBreakII import  *
-#from  SingleNumber import  *
-from flatten import  *
+from  atoi import  *
+
 s = Solution()
-n1 = TreeNode(1)
-n2 = TreeNode(2)
-n3 = TreeNode(3)
-n4 = TreeNode(4)
-n5 = TreeNode(5)
-n6 = TreeNode(6)
-
-n1.left = n2
-n1.right = n5
-n2.left = n3
-n2.right = n4
-n5.right = n6
+print s.atoi("2147483648")
 
 
-s.flatten(n1)
+
+
+"""
+from numDistinct import  *
+s = Solution()
+S = "aabdbaabeeadcbbdedacbbeecbabebaeeecaeabaedadcbdbcdaabebdadbbaeabdadeaabbabbecebbebcaddaacccebeaeedababedeacdeaaaeeaecbe"
+T = "bddabdcae"
+print s.numDistinct(S,T)
+"""
 
 
 
