@@ -1,9 +1,8 @@
 #__author__ = 'linweizhong'
 from node import  *
-from intToRoman import  *
+from isMatch import  *
 s = Solution()
-s.intToRoman(0)
-
+print s.isMatch("a", ".*..a*")
 
 
 
