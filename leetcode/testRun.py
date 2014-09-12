@@ -1,8 +1,9 @@
 #__author__ = 'linweizhong'
 from node import  *
-from isMatch import  *
+from removeElement import  *
 s = Solution()
-print s.isMatch("a", ".*..a*")
+A = [1,2,2,2,1,1,1,1,1]
+print s.removeElement(A,1)
 
 
 
