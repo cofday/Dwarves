@@ -1,19 +1,28 @@
 #__author__ = 'linweizhong'
 from node import  *
-from removeElement import  *
+from  removeDupFromListII import  *
+
 s = Solution()
-A = [1,2,2,2,1,1,1,1,1]
-print s.removeElement(A,1)
+head = ListNode(1)
+n1 = ListNode(2)
+n2 = ListNode(3)
+n3 = ListNode(4)
+n4 = ListNode(2)
+n5 = ListNode(3)
+n6 = ListNode(4)
 
+head.next = n1
+n1.next = n2
+n2.next = n3
+#n3.next = n4
+#n4.next = n5
+#n5.next = n6
+head.printList()
 
+l = s.deleteDuplicates(head)
+print l
+l.printList()
 
-"""
-from numDistinct import  *
-s = Solution()
-S = "aabdbaabeeadcbbdedacbbeecbabebaeeecaeabaedadcbdbcdaabebdadbbaeabdadeaabbabbecebbebcaddaacccebeaeedababedeacdeaaaeeaecbe"
-T = "bddabdcae"
-print s.numDistinct(S,T)
-"""
 
 
 
