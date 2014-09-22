@@ -23,11 +23,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="removeNthFromEnd.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/removeNthFromEnd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.36144578" vertical-offset="75" max-vertical-offset="600">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="30" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="testRun.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testRun.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="330">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state vertical-scroll-proportion="-3.4615386" vertical-offset="0" max-vertical-offset="285">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+              <folding>
+                <element signature="e#28#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="node.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -43,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="isMatch.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="isMatch.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/isMatch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24870466" vertical-offset="411" max-vertical-offset="1230">
+            <state vertical-scroll-proportion="0.0" vertical-offset="411" max-vertical-offset="1230">
               <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
               <folding />
             </state>
@@ -63,7 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/insertionSortList.py" />
         <option value="$PROJECT_DIR$/evalRPN.py" />
         <option value="$PROJECT_DIR$/PascalTriangleII.py" />
         <option value="$PROJECT_DIR$/detectCycle.py" />
@@ -112,16 +133,16 @@
         <option value="$PROJECT_DIR$/wordBreak.py" />
         <option value="$PROJECT_DIR$/removeDupFromList.py" />
         <option value="$PROJECT_DIR$/removeDupFromListII.py" />
-        <option value="$PROJECT_DIR$/testRun.py" />
         <option value="$PROJECT_DIR$/searchInRotatedSortedArray.py" />
+        <option value="$PROJECT_DIR$/removeNthFromEnd.py" />
+        <option value="$PROJECT_DIR$/testRun.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="166" />
-    <option name="y" value="66" />
+    <option name="y" value="22" />
     <option name="width" value="1280" />
-    <option name="height" value="697" />
+    <option name="height" value="706" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -149,7 +170,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -158,8 +178,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,7 +199,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -378,8 +409,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="166" y="66" width="1280" height="697" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1280" height="706" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32396695" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -389,7 +420,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25416997" sideWeight="0.5031315" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27960527" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27850163" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -420,13 +451,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/detectCycle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2172775" vertical-offset="0" max-vertical-offset="555">
-          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/reverse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
@@ -686,13 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="395" max-vertical-offset="1080">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nQueue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
@@ -756,14 +773,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testRun.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/searchInRotatedSortedArray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="690">
@@ -774,8 +783,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/isMatch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24870466" vertical-offset="411" max-vertical-offset="1230">
+        <state vertical-scroll-proportion="0.0" vertical-offset="411" max-vertical-offset="1230">
           <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testRun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4615386" vertical-offset="0" max-vertical-offset="285">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="e#28#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/removeNthFromEnd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36144578" vertical-offset="75" max-vertical-offset="600">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="30" selection-end-column="20" />
           <folding />
         </state>
       </provider>
