@@ -1,9 +1,9 @@
 #__author__ = 'linweizhong'
 from node import  *
-from letterCombinations import  *
+from generateParenthesis import  *
 
 s = Solution()
-print s.letterCombinations("120")
+print s.generateParenthesis(2)
 
 
 

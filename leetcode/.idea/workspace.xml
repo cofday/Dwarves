@@ -27,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/testRun.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
               <folding>
                 <element signature="e#28#47#0" expanded="true" />
               </folding>
@@ -35,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="letterCombinations.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/letterCombinations.py">
+      <file leaf-file-name="generateParenthesis.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/generateParenthesis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5060241" vertical-offset="15" max-vertical-offset="795">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="46" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.14457831" vertical-offset="75" max-vertical-offset="525">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="25" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -55,8 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/reverse.py" />
-        <option value="$PROJECT_DIR$/longestConsecutive.py" />
         <option value="$PROJECT_DIR$/connectBinaryTree.py" />
         <option value="$PROJECT_DIR$/generatePascalTriangle.py" />
         <option value="$PROJECT_DIR$/combine.py" />
@@ -104,8 +102,10 @@
         <option value="$PROJECT_DIR$/removeNthFromEnd.py" />
         <option value="$PROJECT_DIR$/reverseKGroup.py" />
         <option value="$PROJECT_DIR$/maxArea.py" />
-        <option value="$PROJECT_DIR$/testRun.py" />
         <option value="$PROJECT_DIR$/letterCombinations.py" />
+        <option value="$PROJECT_DIR$/Letter Combinations of a Phone Number.py" />
+        <option value="$PROJECT_DIR$/generateParenthesis.py" />
+        <option value="$PROJECT_DIR$/testRun.py" />
       </list>
     </option>
   </component>
@@ -162,6 +162,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="leetcode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -430,13 +440,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/connectBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1230">
-          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PascalTriangleII.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1005">
@@ -774,20 +777,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/letterCombinations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.072289154" vertical-offset="0" max-vertical-offset="795">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testRun.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
           <folding>
             <element signature="e#28#47#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/letterCombinations.py">
+    <entry file="file://$PROJECT_DIR$/generateParenthesis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5060241" vertical-offset="15" max-vertical-offset="795">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="46" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.14457831" vertical-offset="75" max-vertical-offset="525">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="25" selection-end-column="22" />
           <folding />
         </state>
       </provider>
